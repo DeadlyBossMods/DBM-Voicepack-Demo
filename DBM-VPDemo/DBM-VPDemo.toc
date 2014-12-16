@@ -6,7 +6,6 @@
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: Iceoven
-## Notes: X-DBM-Voice-Name Should be long name you want to appear in dropdown menu; X-DBM-Voice-ShortName should be short name that matches folder name after DBM-VP. So for example, DBM-VPDemo would be "Demo" for a short name.
 ## Version: 1.0
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: Demo by Iceoven
