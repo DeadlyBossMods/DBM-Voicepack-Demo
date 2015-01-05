@@ -23,7 +23,7 @@ Now the main part.
   6.7) "X-DBM-Voice", DO NOT TOUCH.
   6.8) "X-DBM-Voice-Name" is the name that appears in /dbm options for selection.
   6.9) "X-DBM-Voice-ShortName" should always match "YourPackName" after "DBM-VP". So in this example, it's the word "Demo" in "DBM-VPDemo".
-  6.10) "X-DBM-Voice-Version" 1 for now. Might change with DBM version if required.
+  6.10) "X-DBM-Voice-Version" Might change with DBM version if required. Please follow the value in this demo every time we update.
   done.
 
 5. Congrats, the only last thing left now is to record your ogg files. Open the VoiceText.txt and you'll see the file names on the left and the words we used on the right.
