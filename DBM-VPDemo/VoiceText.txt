@@ -185,7 +185,7 @@
     "runout" => "run out",
     "safenow" => "safe now",
     "scatter" => "spread",
-    "scattersoon" => "spread",
+    "scattersoon" => "spread soon",
     "shadowrun" => "Shadow on you",
     "shieldover" => "shield over",
     "shockwave" => "shock wave",
