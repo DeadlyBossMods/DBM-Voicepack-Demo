@@ -42,6 +42,7 @@
     "kick2r" => "interrupt 2",
     "kick3r" => "interrupt 3",
     "kick4r" => "interrupt 4",
+    "kick5r" => "interrupt 5",
     "gathershare" => "Stack",
     "mobout" => "pull adds out",
     "bombyrun" => "bomb on you, run",
