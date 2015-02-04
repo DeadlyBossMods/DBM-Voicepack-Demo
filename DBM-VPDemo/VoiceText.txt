@@ -75,8 +75,11 @@
     "Thogar/EX" => "random Deforester",
     "Thogar/F" => "3 Random Lanes",
     "Thogar/A14" => "lane 1 and 4 expresses",
-    "Thogar/D2B3" => "lane 2 Man On Arms and lane 3 Reinforcements",
     "Thogar/C14" => "lane 1 and 4 cannons",
+    "Thogar/B23" => "lane 2 and 3 Reinforcements",
+    "Thogar/B2D3" => "lane 2 Reinforcements and lane 3 Man on Arms",
+    "Thogar/D2C4" => "lane 2 Man on Arms and lane 4 cannon",
+    "Thogar/B14" => "lane 1 and 4 Reinforcements",
 
     "158078" => "stay away from lines",
     "158599" => "attack turret",
