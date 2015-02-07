@@ -19,7 +19,7 @@ Now the main part.
   6.3) Line 4 and 5 is Taiwanese and Chinese translations for the title. If you don't speak those languages just remove those 2 lines. Or if you're making for some other languages please add yours here.
   6.4) "RequiredDeps", "DefaultState" DO NOT TOUCH.
   6.5) Change "Author: Iceoven" to "Author: YourName".
-  6.6) "Version", usually start from 1.0 (or 0.1 if still in alpha/beta status) and increase while your voicepack evolves.
+  6.6) "Version", usually start from 1.0 (or 0.1 if still in alpha/beta status) and increase while your voicepack evolves. (Note: if you release on Curse, please bump this number everytime you make a release so that Curse client is aware.)
   6.7) "X-DBM-Voice", DO NOT TOUCH.
   6.8) "X-DBM-Voice-Name" is the name that appears in /dbm options for selection.
   6.9) "X-DBM-Voice-ShortName" should always match "YourPackName" after "DBM-VP". So in this example, it's the word "Demo" in "DBM-VPDemo".
