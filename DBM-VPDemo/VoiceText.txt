@@ -80,6 +80,11 @@
     "Thogar/B2D3" => "lane 2 Reinforcements and lane 3 Man on Arms",
     "Thogar/D2C4" => "lane 2 Man on Arms and lane 4 cannon",
     "Thogar/B14" => "lane 1 and 4 Reinforcements",
+    "Thogar/A23" => "lane 2 and 3 expresses",
+    "Thogar/D1C4" => "lane 1 Man On Arms and lane 4 cannon",
+    "Thogar/E1A23" => "lane 1 Deforester. lane 2 and 3 expresses",
+    "Thogar/B2A4" => "lane 2 Reinforcements and lane 4 expresses",
+    "Thogar/E23" => "lane 2 and 3 Deforester",
 
     "158078" => "stay away from lines",
     "158599" => "attack turret",
