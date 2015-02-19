@@ -85,6 +85,9 @@
     "Thogar/E1A23" => "lane 1 Deforester. lane 2 and 3 expresses",
     "Thogar/B2A4" => "lane 2 Reinforcements and lane 4 expresses",
     "Thogar/E23" => "lane 2 and 3 Deforester",
+    "ej9659" => "Fire Caller coming",
+    "ej9657" => "Slag Elemental coming",
+    "ej9648" => "Security Guard coming",
 
     "158078" => "stay away from lines",
     "158599" => "attack turret",
