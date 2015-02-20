@@ -45,7 +45,7 @@
     "kick5r" => "interrupt 5",
     "gathershare" => "Stack",
     "mobout" => "pull adds out",
-    "bombyrun" => "bomb on you, run",
+    "bombrun" => "bomb on you, run",
     "157060" => "get in yellow runes",
 
     "Thogar/A1" => "lane 1 express",
