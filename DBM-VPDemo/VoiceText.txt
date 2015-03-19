@@ -1,4 +1,7 @@
 // WoD voices:(probably just record these should be enough)
+    "left" => "left",
+    "center" => "center",
+    "right" => "right",
     "153247" => "Meteor, run!", // Fiery Boulder
     "findshelter" => "find shelter",
     "findshadow" => "get inside the shadow",
