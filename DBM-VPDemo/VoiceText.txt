@@ -91,6 +91,7 @@
     "ej9659" => "Fire Caller coming",
     "ej9657" => "Slag Elemental coming",
     "ej9648" => "Security Guard coming",
+    "ej9649" => "Engineer coming",
 
     "158078" => "stay away from lines",
     "158599" => "attack turret",
