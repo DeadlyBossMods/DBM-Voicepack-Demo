@@ -1,4 +1,13 @@
 // WoD voices:(probably just record these should be enough)
+    "mm1" => "move to Square",
+    "mm2" => "move to Triangle",
+    "mm3" => "move to Diamond",
+    "mm4" => "move to Cross",
+    "mm5" => "move to Star",
+    "mm6" => "move to Circle",
+    "mm7" => "move to Moon",
+    "mm8" => "move to Skull",
+
     "left" => "left",
     "center" => "center",
     "right" => "right",
