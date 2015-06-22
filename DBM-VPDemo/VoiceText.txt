@@ -135,6 +135,7 @@
   "ej11435" => "Artillery",
   "ej11429" => "Demolisher",
   "ej11712" => "Transporter",
+  "180880" => "break chain",
 
   "centerleft" => "center left",
   "centerright" => "center right",
