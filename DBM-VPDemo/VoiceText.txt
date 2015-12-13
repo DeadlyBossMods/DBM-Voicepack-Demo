@@ -139,7 +139,10 @@
 
   "centerleft" => "center left",
   "centerright" => "center right",
-
+  "backleft" => "back left",
+  "backright" => "back right",
+  "frontleft" => "front left",
+  "frontright" => "front right",
 
 // Old General Ones from back in VEM:(may or may not be used now, need clean up)
     "aesoon" => "a o e incoming",
