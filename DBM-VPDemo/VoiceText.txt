@@ -141,8 +141,6 @@
 "184964a" => "break torment first",
 "184964b" => "break torment second",
 "184964c" => "break torment third",
-"184964d" => "break torment fourth",
-"184964e" => "break torment fifth",
 "189897" => "attack doomfire spirit",
 "ej11582" => "attack Deathcaller",
 "186123" => "Wrought Chaos on you, run",
@@ -153,6 +151,13 @@
 "ej11429" => "Demolisher",
 "ej11712" => "Transporter",
 "180880" => "break chain",
+"fearsoon" => "fear incoming",
+"helpsoad" => "help soak",
+"205408c" => "find crab",
+"205408d" => "find dragon",
+"205408h" => "find hunter",
+"205408w" => "find wolf",
+"192094" => "run behind add",
 
 // Old General Ones from back in VEM:(may or may not be used now, need clean up)
 "abrun" => "a b run",
