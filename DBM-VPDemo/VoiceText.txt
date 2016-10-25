@@ -153,7 +153,7 @@
 "ej11712" => "Transporter",
 "180880" => "break chain",
 "fearsoon" => "fear incoming",
-"helpsoad" => "help soak",
+"helpsoak" => "help soak",
 "205408c" => "find crab",
 "205408d" => "find dragon",
 "205408h" => "find hunter",
