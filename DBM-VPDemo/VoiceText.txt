@@ -22,6 +22,7 @@
 "mblue" => "move to blue",
 "mgreen" => "move to green",
 "mpurple" => "move to purple",
+"attacktotem" => "attack totem",
 "mm1" => "move to Star",
 "mm2" => "move to Circle",
 "mm3" => "move to Diamond",
