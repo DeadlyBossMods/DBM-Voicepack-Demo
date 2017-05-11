@@ -1,4 +1,13 @@
 // WoD voices:(probably just record these should be enough)
+"switchphase" => "Switch Phase",
+"felinfusion" => "Fel Infusion on you",
+"lightinfusion" => "Light Infusion on you",
+"jumpinpit" => "Jump in Pit",
+"movetojelly" => "move to jellyfish",
+"inktoshark" => "bring ink to shark",
+"changemoon" => "Change moon",
+"movetimebubble" => "Move to time bubble",
+
 "stackhigh" => "stack high",
 "shareone" => "group one share",
 "sharetwo" => "group two share",
