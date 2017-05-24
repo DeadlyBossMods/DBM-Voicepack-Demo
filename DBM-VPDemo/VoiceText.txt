@@ -1,4 +1,5 @@
 // WoD voices:(probably just record these should be enough)
+"runtoedge" => "run to edge of room",
 "switchphase" => "Switch Phase",
 "felinfusion" => "Fel Infusion on you",
 "lightinfusion" => "Light Infusion on you",
