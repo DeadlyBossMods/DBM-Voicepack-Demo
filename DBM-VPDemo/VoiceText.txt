@@ -1,4 +1,12 @@
 // WoD voices:(probably just record these should be enough)
+"north" => "north",
+"south" => "south",
+"east" => "east",
+"west" => "west",
+"northeast" => "northeast",
+"northwest" => "northwest",
+"southeast" => "southeast",
+"southwest" => "southwest",
 "runtoedge" => "run to edge of room",
 "switchphase" => "Switch Phase",
 "felinfusion" => "Fel Infusion on you",
