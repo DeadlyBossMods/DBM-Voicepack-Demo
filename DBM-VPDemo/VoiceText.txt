@@ -1,4 +1,6 @@
 // WoD voices:(probably just record these should be enough)
+"moveboss" => "Move Boss",
+"bosstobeam" => "Move boss to beam",
 "north" => "north",
 "south" => "south",
 "east" => "east",
