@@ -1,5 +1,6 @@
 // WoD voices:(probably just record these should be enough)
 "newportal" => "new portal",
+"healfull" => "heal to full",
 "useitem" => "Use item",
 "movetotank" => "move to tank",
 "silencesoon" => "silence soon",
