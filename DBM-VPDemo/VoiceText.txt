@@ -1,4 +1,5 @@
 // WoD voices:(probably just record these should be enough)
+"newportal" => "new portal",
 "useitem" => "Use item",
 "movetotank" => "move to tank",
 "silencesoon" => "silence soon",
