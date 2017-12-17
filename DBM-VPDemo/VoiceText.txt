@@ -1,4 +1,9 @@
 // WoD voices:(probably just record these should be enough)
+"group1" => "Group One",
+"group2" => "Group Two",
+"group3" => "Group Three",
+"group4" => "Group Four",
+"group5" => "Group Five",
 "newportal" => "new portal",
 "healfull" => "heal to full",
 "useitem" => "Use item",
