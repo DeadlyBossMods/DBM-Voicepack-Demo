@@ -1,4 +1,5 @@
 // WoD voices:(probably just record these should be enough)
+"attackshield" => "Attack Shield",
 "pfive" => "phase five",
 "group1" => "Group One",
 "group2" => "Group Two",
