@@ -1,4 +1,5 @@
 // WoD voices:(probably just record these should be enough)
+"newmatrix" => "Matrix on you",
 "attackshield" => "Attack Shield",
 "pfive" => "phase five",
 "group1" => "Group One",
