@@ -1,4 +1,5 @@
 // WoD voices:(probably just record these should be enough)
+"gatheritem" => "Gather Item",
 "newmatrix" => "Matrix on you",
 "attackshield" => "Attack Shield",
 "pfive" => "phase five",
