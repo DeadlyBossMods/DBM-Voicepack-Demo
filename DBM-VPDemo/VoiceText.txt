@@ -1,5 +1,6 @@
 // WoD voices:(probably just record these should be enough)
-"getbehind" => "Get Behind",
+"behindboss" => "Behind Boss",
+"behindmob" => "Behind Mob",
 "swapsoon" => "Swap Soon",
 "gatheritem" => "Gather Item",
 "newmatrix" => "Matrix on you",
