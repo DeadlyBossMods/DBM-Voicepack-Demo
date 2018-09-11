@@ -1,4 +1,5 @@
 // WoD voices:(probably just record these should be enough)
+"bloodfeast" => "Blood Feast",
 "behindboss" => "Behind Boss",
 "behindmob" => "Behind Mob",
 "swapsoon" => "Swap Soon",
