@@ -1,4 +1,5 @@
-// WoD voices:(probably just record these should be enough)
+// Latest voices:(probably just record these should be enough)
+"crowdcontrol" => "crowd control",
 "bait" => "bait now",
 "watchfeet" => "Watch your feet",
 "bloodfeast" => "Blood Feast",
