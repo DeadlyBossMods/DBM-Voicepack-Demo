@@ -1,4 +1,7 @@
 // Latest voices:(probably just record these should be enough)
+"frost" => "Frost",
+"toxic" => "Toxic",
+"breakcoral" => "Break Coral",
 "crowdcontrol" => "crowd control",
 "bait" => "bait now",
 "watchfeet" => "Watch your feet",
