@@ -1,4 +1,5 @@
 // Latest voices:(probably just record these should be enough)
+"lowsanity" => "Low Sanity",
 "leavemind" => "Leave Mind",
 "frost" => "Frost",
 "toxic" => "Toxic",
