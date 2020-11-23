@@ -1,12 +1,12 @@
-﻿## Interface: 90001
-## X-Min-Interface: 90001
+﻿## Interface: 90002
+## X-Min-Interface: 90002
 ## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack Demo|r
 ## Title-zhCN:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Demo 语音包|r
 ## Title-zhTW:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Demo 語音包|r
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: Iceoven
-## Version: 11.0.1
+## Version: 11.0.2
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: Demo by Iceoven
 ## X-DBM-Voice-ShortName: Demo

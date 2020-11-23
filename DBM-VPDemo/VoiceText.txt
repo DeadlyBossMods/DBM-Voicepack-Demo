@@ -1,4 +1,5 @@
 // Latest voices:(probably just record these should be enough)
+"movemelee" => "move to melee",
 "lineapart" => "line apart",
 "lowsanity" => "Low Sanity",
 "leavemind" => "Leave Mind",
