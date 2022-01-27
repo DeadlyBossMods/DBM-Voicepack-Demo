@@ -1,4 +1,6 @@
 // Latest voices:(probably just record these should be enough)
+"breaklos" => "break line of sight",
+"pone" => "Phase one",
 "movemelee" => "move to melee",
 "lineapart" => "line apart",
 "lowsanity" => "Low Sanity",
