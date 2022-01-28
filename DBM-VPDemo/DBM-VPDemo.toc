@@ -8,6 +8,7 @@
 ## RequiredDeps: DBM-Core
 ## Author: Iceoven
 ## Version: @project-version@
+## X-Curse-Project-ID: 87828
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: Demo by Iceoven
 ## X-DBM-Voice-ShortName: Demo

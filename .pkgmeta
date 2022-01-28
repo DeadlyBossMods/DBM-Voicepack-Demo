@@ -1,0 +1,5 @@
+package-as: DBM-VPDemo
+enable-nolib-creation: no
+
+move-folders:
+    DBM-VPDemo/DBM-VPDemo: DBM-VPDemo
