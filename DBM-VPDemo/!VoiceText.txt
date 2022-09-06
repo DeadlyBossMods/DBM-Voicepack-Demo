@@ -1,4 +1,5 @@
 // Latest voices:(probably just record these should be enough)
+"pushbackincoming" => "pushback incoming",
 "chainboss" => "chain boss",
 "pullin" => "pulling in",
 "useextraaction" => "use extra action",
