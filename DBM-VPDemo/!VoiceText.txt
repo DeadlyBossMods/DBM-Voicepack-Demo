@@ -1,4 +1,7 @@
 // Latest voices:(probably just record these should be enough)
+"positive" => "positive",
+"negative" => "negative",
+"movetopillar" => "Move to Pillar",
 "pushbackincoming" => "pushback incoming",
 "chainboss" => "chain boss",
 "pullin" => "pulling in",
