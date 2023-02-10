@@ -1,4 +1,5 @@
 // Latest voices:(probably just record these should be enough)
+"changecolor" => "change color",
 "polarityshift" => "polarity shift",
 "positive" => "positive",
 "negative" => "negative",
