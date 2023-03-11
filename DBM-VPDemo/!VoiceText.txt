@@ -1,4 +1,6 @@
 // Latest voices:(probably just record these should be enough)
+"movetomobs" => "move to mobs",
+"movetoboss" => "move to boss",
 "getupwind" => "Get upwind",
 "changecolor" => "change color",
 "polarityshift" => "polarity shift",
