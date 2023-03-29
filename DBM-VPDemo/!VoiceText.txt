@@ -1,4 +1,6 @@
 // Latest voices:(probably just record these should be enough)
+"breakvine" => "break vine",
+"helpspirit" => "help spirit",
 "movetomobs" => "move to mobs",
 "movetoboss" => "move to boss",
 "getupwind" => "Get upwind",
