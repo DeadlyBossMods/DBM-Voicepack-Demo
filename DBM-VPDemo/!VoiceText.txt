@@ -1,4 +1,5 @@
 // Latest voices:(probably just record these should be enough)
+"incomingdebuff" => "incoming de-buff",
 "breakvine" => "break vine",
 "helpspirit" => "help spirit",
 "movetomobs" => "move to mobs",
