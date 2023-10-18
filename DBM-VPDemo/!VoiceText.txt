@@ -1,4 +1,5 @@
 // Latest voices:(probably just record these should be enough)
+"movetopool" => "Move to Pool",
 "frontal" => "frontal",
 "getknockedup" => "Get Knocked Upward",
 "incomingdebuff" => "incoming de-buff",
