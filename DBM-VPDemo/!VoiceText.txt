@@ -1,4 +1,6 @@
 // Latest voices:(probably just record these should be enough)
+"flameyou" => "flame on you",
+"shadowyou" => "shadow on you",
 "movetopool" => "Move to Pool",
 "frontal" => "frontal",
 "getknockedup" => "Get Knocked Upward",
