@@ -1,4 +1,5 @@
 // Latest voices:(probably just record these should be enough)
+"seedyou" => "seed on you",
 "flameyou" => "flame on you",
 "shadowyou" => "shadow on you",
 "movetopool" => "Move to Pool",
