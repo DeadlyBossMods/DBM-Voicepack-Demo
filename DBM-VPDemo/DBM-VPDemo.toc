@@ -1,4 +1,4 @@
-## Interface: 100107
+## Interface: 100200
 ## Interface-Classic: 11404
 ## Interface-BCC: 20504
 ## Interface-Wrath: 30403
@@ -15,5 +15,5 @@
 ## X-DBM-Voice-Name: Demo by Iceoven
 ## X-DBM-Voice-Name-ruRU: Голосовой пакет Demo
 ## X-DBM-Voice-ShortName: Demo
-## X-DBM-Voice-Version: 14
+## X-DBM-Voice-Version: 15
 ## X-DBM-Voice-HasCount: 1
