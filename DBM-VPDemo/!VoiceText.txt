@@ -1,4 +1,8 @@
 // Latest voices:(probably just record these should be enough)
+"dpsstop" => "stop dps",
+"dpshard" => "hard dps",
+"dpsmore" => "more dps",
+"dpsslow" => "slow dps",
 "seedyou" => "seed on you",
 "flameyou" => "flame on you",
 "shadowyou" => "shadow on you",
