@@ -20,7 +20,7 @@ jobs:
           fetch-depth: 0
 
       - name: Create Package
-        uses: BigWigsMods/packager@multitoc
+        uses: BigWigsMods/packager@master
         if: ${{ github.event_name != 'pull_request' }}
         env:
           CF_API_KEY: ${{ secrets.CF_API_KEY }}
