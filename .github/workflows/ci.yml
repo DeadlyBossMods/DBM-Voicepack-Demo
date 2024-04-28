@@ -15,15 +15,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 100
+          fetch-depth: 0
 
       - name: Create Package
-        uses: BigWigsMods/packager@multitoc
+        uses: BigWigsMods/packager@master
         if: ${{ github.event_name != 'pull_request' }}
-        with:
-          args: -S
         env:
           CF_API_KEY: ${{ secrets.CF_API_KEY }}
           GITHUB_OAUTH: ${{ secrets.GITHUB_TOKEN }}
