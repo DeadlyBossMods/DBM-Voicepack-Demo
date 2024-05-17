@@ -1,4 +1,10 @@
 // Latest voices:(probably just record these should be enough)
+"redyou" => "red on you",
+"yellowyou" => "yellow on you",
+"blueyou" => "blue on you",
+"greenyou" => "green on you",
+"purpleyou" => "purple on you",
+"orangeyou" => "orange on you",
 "movetostatue" => "move to statue",
 "dpsstop" => "stop dps",
 "dpshard" => "hard dps",
