@@ -1,4 +1,7 @@
 // Latest voices:(probably just record these should be enough)
+"debuffyou" => "debuff on you",
+"movetoegg" => "move to egg",
+"movetoweb" => "move to web",
 "redyou" => "red on you",
 "yellowyou" => "yellow on you",
 "blueyou" => "blue on you",
