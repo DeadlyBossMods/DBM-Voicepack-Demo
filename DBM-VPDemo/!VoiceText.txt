@@ -1,4 +1,6 @@
 // Latest voices:(probably just record these should be enough)
+"paranoiayou" => "paranoia on you",
+"rage" => "rage on you",
 "debuffyou" => "debuff on you",
 "movetoegg" => "move to egg",
 "movetoweb" => "move to web",
