@@ -1,4 +1,5 @@
 // Latest voices:(probably just record these should be enough)
+"lineyou" => "line on you",
 "paranoiayou" => "paranoia on you",
 "rage" => "rage on you",
 "debuffyou" => "debuff on you",
