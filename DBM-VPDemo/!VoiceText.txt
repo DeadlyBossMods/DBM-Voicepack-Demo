@@ -1,7 +1,8 @@
 // Latest voices:(probably just record these should be enough)
+"stopchargewithline" => "stop charge with line",
 "lineyou" => "line on you",
 "paranoiayou" => "paranoia on you",
-"rage" => "rage on you",
+"rageyou" => "rage on you",
 "debuffyou" => "debuff on you",
 "movetoegg" => "move to egg",
 "movetoweb" => "move to web",
