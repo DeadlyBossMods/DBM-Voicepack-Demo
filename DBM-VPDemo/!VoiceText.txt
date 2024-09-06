@@ -1,4 +1,5 @@
 // Latest voices:(probably just record these should be enough)
+"riftdispel" => "dispel near rift",
 "stopchargewithline" => "stop charge with line",
 "lineyou" => "line on you",
 "paranoiayou" => "paranoia on you",
