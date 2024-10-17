@@ -1,4 +1,5 @@
 // Latest voices:(probably just record these should be enough)
+"findclearvent" => "find clear vent",
 "riftdispel" => "dispel near rift",
 "stopchargewithline" => "stop charge with line",
 "lineyou" => "line on you",
