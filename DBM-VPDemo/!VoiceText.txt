@@ -1,4 +1,6 @@
 // Latest voices:(probably just record these should be enough)
+"soakbeam" => "soak beam",
+"runovermobs" => "run over mobs",
 "movetoflamethrower" => "move to flamethrower",
 "findclearvent" => "find clear vent",
 "riftdispel" => "dispel near rift",
