@@ -1,4 +1,6 @@
 // Latest voices:(probably just record these should be enough)
+"movetotendrils" => "move to tendrils",
+"rollincoming" => "roll incoming",
 "soakbeam" => "soak beam",
 "runovermobs" => "run over mobs",
 "movetoflamethrower" => "move to flamethrower",
