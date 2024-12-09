@@ -1,4 +1,6 @@
 // Latest voices:(probably just record these should be enough)
+"enteringcombat" => "entering combat",
+"leavingcombat" => "leaving combat",
 "movetotendrils" => "move to tendrils",
 "rollincoming" => "roll incoming",
 "soakbeam" => "soak beam",
