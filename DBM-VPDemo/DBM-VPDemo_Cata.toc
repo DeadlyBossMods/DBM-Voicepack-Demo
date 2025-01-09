@@ -14,5 +14,5 @@
 ## X-DBM-Voice-Name: Demo by Iceoven
 ## X-DBM-Voice-Name-ruRU: Голосовой пакет Demo
 ## X-DBM-Voice-ShortName: Demo
-## X-DBM-Voice-Version: 17
+## X-DBM-Voice-Version: 18
 ## X-DBM-Voice-HasCount: 1
