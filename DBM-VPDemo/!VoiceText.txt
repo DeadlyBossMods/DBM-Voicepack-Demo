@@ -1,4 +1,5 @@
 // Latest voices:(probably just record these should be enough)
+"droptorch" => "drop torch",
 "sparktowater" => "Kite spark to water",
 "screwup" => "You're a screw-up",
 "poolyou" => "pool on you",
