@@ -1,4 +1,6 @@
 // Latest voices:(probably just record these should be enough)
+"coinyou" => "coin on you",
+"shockyou" => "shock on you",
 "droptorch" => "drop torch",
 "sparktowater" => "Kite spark to water",
 "screwup" => "You're a screw-up",
