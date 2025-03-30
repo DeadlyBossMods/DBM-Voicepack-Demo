@@ -1,4 +1,6 @@
 // Latest voices:(probably just record these should be enough)
+"mediumball" => "medium ball",
+"bigball" => "big ball",
 "coinyou" => "coin on you",
 "shockyou" => "shock on you",
 "droptorch" => "drop torch",
