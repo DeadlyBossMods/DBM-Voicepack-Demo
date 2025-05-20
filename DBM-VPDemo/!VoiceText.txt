@@ -1,4 +1,5 @@
 // Latest voices:(probably just record these should be enough)
+"movetoyelloworb" => "move to yellow orb",
 "mediumball" => "medium ball",
 "bigball" => "big ball",
 "coinyou" => "coin on you",
