@@ -1,4 +1,5 @@
 // Latest voices:(probably just record these should be enough)
+"movetobeam" => "move to beam",
 "movetoarrow" => "move to arrow",
 "movetoyelloworb" => "move to yellow orb",
 "mediumball" => "medium ball",
