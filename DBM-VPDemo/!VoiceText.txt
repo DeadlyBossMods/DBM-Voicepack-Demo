@@ -1,4 +1,10 @@
 // Latest voices:(probably just record these should be enough)
+"trapsincoming" => "traps incoming",
+"stunyou" => "stun on you",
+"frontalyou" => "frontal on you",
+"leapyou" => "leap on you",
+"behindice" => "move behind ice",
+"fixateyou" => "fixate on you",
 "movetobeam" => "move to beam",
 "movetoarrow" => "move to arrow",
 "movetoyelloworb" => "move to yellow orb",
