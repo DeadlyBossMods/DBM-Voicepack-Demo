@@ -1,4 +1,5 @@
 // Latest voices:(probably just record these should be enough)
+"usegate" => "use gate",
 "trapsincoming" => "traps incoming",
 "stunyou" => "stun on you",
 "frontalyou" => "frontal on you",
